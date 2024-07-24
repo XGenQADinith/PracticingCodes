@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+#to test git ignore#
+toGitIgnore/

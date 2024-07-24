@@ -1,0 +1,6 @@
+Expected Result,Actual Result,QA status
+apple,apple,Pass
+orange,Orange,Pass
+papaya,papaya,Pass
+banana,watermelon,Fail
+Yo Yo,Yo Yo,Pass
